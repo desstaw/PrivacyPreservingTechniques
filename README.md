@@ -1,1 +1,1 @@
-# Seminar_DataManagement23
+# Privacy_Preserving_Techniques
