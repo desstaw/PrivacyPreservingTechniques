@@ -1,0 +1,37 @@
+K,max suppression %,median auroc,median acc,median f1,solution set SA,suppression in %,solution set ARX,ARX suppression,ARX auroc,ARX accuracy,ARX f1
+2,10,0.756,78,0.762,"L3_age', 'L1_los_hours', 'L1_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",7.5,"L1_age', 'L2_los_hours', 'L1_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",4.2,0.707,74.7,71.3
+3,10,0.741,76.4,0.744,"L2_age', 'L1_los_hours', 'L1_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L2_Ethnicity'",9.8,"L1_age', 'L1_los_hours', 'L1_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",4.9,0.71,74.7,7.15
+4,10,0.744,77.6,0.752,"L1_age', 'L1_los_hours', 'L1_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",7.4,NULL,NULL,NULL,NULL,NULL
+5,10,0.736,77.4,0.744,"L1_age', 'L1_los_hours', 'L1_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",9.2,NULL,NULL,NULL,NULL,NULL
+6,10,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7,10,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+8,10,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+9,10,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+10,10,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+15,10,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+20,10,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+25,10,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2,20,0.772,79.3,0.777,"L1_age', 'L1_los_hours', 'L1_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L2_Diseases', 'L1_Ethnicity'",8.4,"L1_age', 'L1_los_hours', 'L1_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",2,0.742,77.5,75.1
+3,20,0.752,77.9,0.757,"L1_age', 'L1_los_hours', 'L1_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L2_Diseases', 'L2_Ethnicity'",16.6,"L3_age', 'L1_los_hours', 'L1_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",14,0.747,76.8,74.2
+4,20,0.7,74.1,0.707,"L2_age', 'L1_los_hours', 'L1_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",12,"L1_age', 'L2_los_hours', 'L2_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",13,0.761,79.2,76.7
+5,20,0.747,77.9,0.751,"L1_age', 'L1_los_hours', 'L2_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L2_Ethnicity'",10.7,"L1_age', 'L1_los_hours', 'L1_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",9.1,0.736,77.4,74.4
+6,20,0.759,79.2,0.768,"L1_age', 'L1_los_hours', 'L2_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",11.1,"L1_age', 'L1_los_hours', 'L1_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",10.7,0.758,78.3,76.4
+7,20,0.757,78.1,0.764,"L1_age', 'L1_los_hours', 'L2_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L2_Ethnicity'",15.6,"L1_age', 'L1_los_hours', 'L1_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",13,0.727,75.4,73.2
+8,20,0.711,74.8,0.717,"L1_age', 'L1_los_hours', 'L1_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",14,NULL,NULL,NULL,NULL,NULL
+9,20,0.768,79,0.772,"L1_age', 'L1_los_hours', 'L1_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",15.8,NULL,NULL,NULL,NULL,NULL
+10,20,0.706,73.1,0.708,"L1_age', 'L1_los_hours', 'L1_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L2_Ethnicity'",20,NULL,NULL,NULL,NULL,NULL
+15,20,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+20,20,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+25,20,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2,30,0.773,80.8,0.783,"L4_age', 'L1_los_hours', 'L1_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L2_Diseases', 'L2_Ethnicity'",28.6,"L1_age', 'L1_los_hours', 'L1_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L2_Diseases', 'L1_Ethnicity'",8.3,0.772,79.3,77.7
+3,30,0.764,79.7,0.772,"L4_age', 'L1_los_hours', 'L1_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",21.4,"L1_age', 'L1_los_hours', 'L1_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L2_Diseases', 'L1_Ethnicity'",15.1,0.75,78,75.8
+4,30,0.76,79.1,0.768,"L4_age', 'L1_los_hours', 'L1_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",28.1,"L3_age', 'L1_los_hours', 'L2_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",18.4,0.749,77.2,75.5
+5,30,0.765,78.3,0.768,"L1_age', 'L1_los_hours', 'L2_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L2_Diseases', 'L2_Ethnicity'",26.3,"L3_age', 'L1_los_hours', 'L2_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",22.5,0.745,76.5,74.5
+6,30,0.759,79.2,0.768,"L1_age', 'L1_los_hours', 'L2_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",11.1,"L1_age', 'L1_los_hours', 'L1_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",10.7,0.758,78.3,76.4
+7,30,0.733,76.7,0.741,"L1_age', 'L1_los_hours', 'L2_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",13.4,"L1_age', 'L2_los_hours', 'L2_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",20.3,0.719,75.2,72.5
+8,30,0.756,78.6,0.765,"L1_age', 'L1_los_hours', 'L2_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L2_Ethnicity'",17.2,"L1_age', 'L1_los_hours', 'L1_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",24.8,0.751,78,75.7
+9,30,0.768,79,0.772,"L1_age', 'L1_los_hours', 'L1_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",15.8,"L1_age', 'L1_los_hours', 'L1_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",15.8,0.768,79,77.2
+10,30,0.755,76.4,0.757,"L2_age', 'L1_los_hours', 'L2_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",27.3,"L1_age', 'L1_los_hours', 'L1_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",17.5,0.699,72.6,70.4
+15,30,0.754,78.2,0.759,"L1_age', 'L1_los_hours', 'L2_Admission_Type', 'gender', 'stroke_type', 'marital_status', 'L1_Diseases', 'L1_Ethnicity'",25,NULL,NULL,NULL,NULL,NULL
+20,30,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+25,30,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
